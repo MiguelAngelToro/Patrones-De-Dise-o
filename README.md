@@ -194,8 +194,8 @@ public class Main {
 
 Conclusiones:
 
-    Patrones Creacionales: El uso de Factory Method podría ayudar a gestionar la creación de diferentes tipos de tareas dentro de la aplicación.
+Patrones Creacionales: El uso de Factory Method podría ayudar a gestionar la creación de diferentes tipos de tareas dentro de la aplicación.
 
-    Patrones Estructurales: Decorator podría ser útil para añadir funcionalidades adicionales a las tareas, como etiquetas de prioridad o notas adicionales.
+Patrones Estructurales: Decorator podría ser útil para añadir funcionalidades adicionales a las tareas, como etiquetas de prioridad o notas adicionales.
 
-    Patrones de Comportamiento: Observer podría utilizarse para notificar a los usuarios interesados (como asignados a una tarea) cuando el estado de una tarea cambie, manteniendo la consistencia y actualización automática de la información.
+Patrones de Comportamiento: Observer podría utilizarse para notificar a los usuarios interesados (como asignados a una tarea) cuando el estado de una tarea cambie, manteniendo la consistencia y actualización automática de la información.
